@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://economy.enorth.com.cn/rss.xml</forum>
+<forum_title>北方网--时代财经</forum_title>
+<discussion_title>统计局：7月份规模以上工业增加值增长6.0%</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://economy.enorth.com.cn/system/2016/08/12/031105943.shtml</topic_url>
+<topic_text>
+查看更多 &lt;ul class=&quot;list&quot;&gt; {#foreach $T as t} {#if $T.t.guide_image!=&apos;&apos;} &lt;li style=&quot;width:99%; overflow: hidden;border-bottom: 1px solid #ddd;&quot; &gt; &lt;a class=&quot;link&quot; href=&quot;{$T.t.url}&quot; target=&quot;_blank&quot;&gt; &lt;h4&gt; {$T.t.title.substring(0, 30)} &lt;/h4&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt; &lt;td class=&quot;pic&quot; valign=&quot;top&quot;&gt;&lt;img src=&quot;{$T.t.guide_image}&quot; width=&quot;160&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/td&gt; &lt;td valign=&quot;top&quot;&gt; {#if $T.t.abstract!=&apos;&apos;} &lt;p class=&quot;abstract&quot;&gt; {$T.t.abstract.substring(0, 50)} [详细] &lt;/p&gt; {#/if} &lt;p class=&quot;time&quot;&gt; &lt;span class=&quot;mr5&quot;&gt; {$T.t.pub_date}&lt;/span&gt;&lt;span&gt;{$T.t.source_name}&lt;/span&gt; &lt;/p&gt; &lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt; &lt;/table&gt; &lt;/a&gt; &lt;/li&gt; {#else} &lt;li class=&quot;block-txt&quot; style=&quot;width:99%; overflow: hidden;border-bottom: 1px solid #ddd;&quot;&gt; &lt;a class=&quot;link&quot; href=&quot;{$T.t.url}&quot; target=&quot;_blank&quot;&gt; &lt;h4&gt;{$T.t.title.substring(0, 30)}&lt;/h4&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt; &lt;td valign=&quot;top&quot;&gt; {#if $T.t.abstract!=&apos;&apos;} &lt;p class=&quot;abstract&quot;&gt;{$T.t.abstract.substring(0, 50)} [详细]&lt;/p&gt; {#/if} &lt;p class=&quot;time&quot;&gt; &lt;span class=&quot;mr5&quot;&gt;{$T.t.pub_date}&lt;/span&gt;&lt;span&gt;{$T.t.source_name}&lt;/span&gt; &lt;/p&gt; &lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt; &lt;/table&gt; &lt;/a&gt; &lt;/li&gt; {#/if} {#/for} &lt;/ul&gt; 我来说两句
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://economy.enorth.com.cn/system/2016/08/12/031105943.shtml</post_url>
+<post_date>20160812</post_date>
+<post_time>1310</post_time>
+<username></username>
+<post>
+查看更多 &lt;ul class=&quot;list&quot;&gt; {#foreach $T as t} {#if $T.t.guide_image!=&apos;&apos;} &lt;li style=&quot;width:99%; overflow: hidden;border-bottom: 1px solid #ddd;&quot; &gt; &lt;a class=&quot;link&quot; href=&quot;{$T.t.url}&quot; target=&quot;_blank&quot;&gt; &lt;h4&gt; {$T.t.title.substring(0, 30)} &lt;/h4&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt; &lt;td class=&quot;pic&quot; valign=&quot;top&quot;&gt;&lt;img src=&quot;{$T.t.guide_image}&quot; width=&quot;160&quot; height=&quot;120&quot; alt=&quot;&quot; /&gt;&lt;/td&gt; &lt;td valign=&quot;top&quot;&gt; {#if $T.t.abstract!=&apos;&apos;} &lt;p class=&quot;abstract&quot;&gt; {$T.t.abstract.substring(0, 50)} [详细] &lt;/p&gt; {#/if} &lt;p class=&quot;time&quot;&gt; &lt;span class=&quot;mr5&quot;&gt; {$T.t.pub_date}&lt;/span&gt;&lt;span&gt;{$T.t.source_name}&lt;/span&gt; &lt;/p&gt; &lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt; &lt;/table&gt; &lt;/a&gt; &lt;/li&gt; {#else} &lt;li class=&quot;block-txt&quot; style=&quot;width:99%; overflow: hidden;border-bottom: 1px solid #ddd;&quot;&gt; &lt;a class=&quot;link&quot; href=&quot;{$T.t.url}&quot; target=&quot;_blank&quot;&gt; &lt;h4&gt;{$T.t.title.substring(0, 30)}&lt;/h4&gt; &lt;table&gt; &lt;tbody&gt;&lt;tr&gt; &lt;td valign=&quot;top&quot;&gt; {#if $T.t.abstract!=&apos;&apos;} &lt;p class=&quot;abstract&quot;&gt;{$T.t.abstract.substring(0, 50)} [详细]&lt;/p&gt; {#/if} &lt;p class=&quot;time&quot;&gt; &lt;span class=&quot;mr5&quot;&gt;{$T.t.pub_date}&lt;/span&gt;&lt;span&gt;{$T.t.source_name}&lt;/span&gt; &lt;/p&gt; &lt;/td&gt; &lt;/tr&gt;&lt;/tbody&gt; &lt;/table&gt; &lt;/a&gt; &lt;/li&gt; {#/if} {#/for} &lt;/ul&gt; 我来说两句
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>CN</country>
+<main_image></main_image>
+</document>

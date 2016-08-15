@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://www.theregister.co.uk/software/developer/headlines.atom</forum>
+<forum_title>The Register - Software: Developer</forum_title>
+<discussion_title>Quip away, but Microsoft Excel 365&apos;s REST APIs win the day</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.theregister.co.uk/2016/08/05/salesforce_quip_hype_vs_microsoft_excel_reality/</topic_url>
+<topic_text>
+Salesforce has splashed out $582m on what some hail as its alternative to MS Word. Without spending anything, Microsoft has shown the true meaning of power.
+For years, it has been macro makers who have done the daily work of making Office more and more useful to end users, embedding it more into daily working life.
+Now, as Office has shifted to the cloud with Office 365, it’s time for web devs to follow suit. To that end, Microsoft has released an Office 365 API for developers to add Excel-based calculations to web apps.
+The Excel REST API for Office 365 is the plumbing to Microsoft’s Graph , which connects relationships between entities – so Graph as in graph database.
+The software giant has targeted not desk jockeys or tablet warriors in its move; rather, devs are now set to be using a code drop that promises to consolidate Microsoft’s Office brand.
+According to a Microsoft blog post here , devs will be able to tap into more than 300 Excel worksheet functions, giving “full access to the breadth of formula supported by Excel.”
+The idea is you don’t need to build complex business models and use an API call to Graph.
+[Insert name here] takes on Office Quip is a mobile-first productivity app akin to Office 365 and Google’s Docs. Many will be tempted to see Quip as the personal productivity brick in the white-collar puzzle that encompasses CRM – and thus Salesforce&apos;s attempt to take on Office and Microsoft.
+But Quip will remain little more than a nice afterthought – something for those who dislike Microsoft and Google so much that they prefer gluing together their own business apps using a suite of Salesforce, Box and anybody else.
+These people are small in number.
+The reason is that Microsoft has been so busy stuffing Office 365 into corporate accounts under its enterprise licenses that this market is small. Moreover, many of those accounts were already die-hard Windows – and, moreover, Office – shops.
+Microsoft defined productivity on the desktop with Office apps Excel and Word in the 1980s and 1990s to such an extent that Google was forced to copy the look and functionality of Office with its Google Docs product.
+When Microsoft changed things up with the new ribbon interface in Office 2007, customers got a nasty shock and people clung to the ageing versions of their favourite suite.
+Salesforce has recognised the power of Office 365 and has an extensive integration deal between its CRM cloud and Microsoft’s suite.
+Making the mechanics of Excel 365 available as a REST service does nothing but make Excel even easier to integrate into a new generation of apps that aren’t on the desktop, but are on something far more important: the web and the device.
+Moreover, that Excel 365 is double bubble for Microsoft as it will feed ever more data into Redmond’s Graph relationship engine. ®
+ 
+</topic_text>
+<spam_score>0.50</spam_score>
+<post_num>21</post_num>
+<post_id>post-21</post_id>
+<post_url>http://www.theregister.co.uk/2016/08/05/salesforce_quip_hype_vs_microsoft_excel_reality/</post_url>
+<post_date>20160812</post_date>
+<post_time></post_time>
+<username>BrianT</username>
+<post>
+Re: your business critical data is still stuck at the old one Does the word &quot;backup&quot; mean nothing to you?
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>GB</country>
+<main_image>https://regmedia.co.uk/2016/08/04/nerd_super_hero_photo_via_shutterstock.jpg?x=1200&amp;y=794</main_image>
+</document>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://e.chinabyte.com/index.xml</forum>
+<forum_title>企业计算_比特网</forum_title>
+<discussion_title>东芝全新产品悄然亮相 直逼竞争对手_存储_比特网</discussion_title>
+<language>chinese</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://storage.chinabyte.com/118/13859118.shtml</topic_url>
+<topic_text>
+详解大数据 2016-08-12 12:10:00 来源： ZDnet 作者： 佚名 关键字： 
+走出低潮， 东芝 公司已经发布一款采用凌动 处理器 的实时向外扩展计算加 闪存 分析引擎，而竞争目标则直指Pure公司旗下的FlashBlade产品。 
+此次发布内容意味着 Pure Storage 公司的 大数据 分析设备迎来了第一位竞争对手，而其来源则非常令人意外--因为事实上，东芝公司在 企业 数据中心 级系统领域的表现一直并不积极。 
+Flashmatrix是由东芝公司设计的一套高密度多处理器、多节点、 服务器 -闪存-网络系统，专门用于实时/数据流分析。东芝方面将其称为一套高融合型系统，并表示Flashmatrix能够实现并发访问与线性规模缩放。 
+在一份声明当中，东芝美国电子元件公司系统开发主管Ralph Schmitt表示：&quot;大数据处理在规模化、延迟与功耗水平等方面，都很难满足客户日益提升的实际需求。Flashmatrix创造出一套真正的分析处理解决 方案 ，其提供低功耗水平、并发访问以降低系统延迟、卡层级规模扩展以及可供全部CPU共享的大规模非易失内存空间，从而切实解决以上难题。&quot; 
+其单一节点为2U设备，具体包括： 
+• 12块微服务器--名为Connection Units(简称CU)-- CPU卡，包含： 
+• 
+• 
+• 2 x 1 GbitE端口。 
+• 48块闪存卡，名为Node Modules(简称NM)： 
+2 x FPGA (Xilinx K7)协处理器。 
+• 8 x 512 GB DDR3L DRAM。 
+数据库
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://storage.chinabyte.com/118/13859118.shtml</post_url>
+<post_date>20160812</post_date>
+<post_time>0410</post_time>
+<username></username>
+<post>
+详解大数据 2016-08-12 12:10:00 来源： ZDnet 作者： 佚名 关键字： 
+走出低潮， 东芝 公司已经发布一款采用凌动 处理器 的实时向外扩展计算加 闪存 分析引擎，而竞争目标则直指Pure公司旗下的FlashBlade产品。 
+此次发布内容意味着 Pure Storage 公司的 大数据 分析设备迎来了第一位竞争对手，而其来源则非常令人意外--因为事实上，东芝公司在 企业 数据中心 级系统领域的表现一直并不积极。 
+Flashmatrix是由东芝公司设计的一套高密度多处理器、多节点、 服务器 -闪存-网络系统，专门用于实时/数据流分析。东芝方面将其称为一套高融合型系统，并表示Flashmatrix能够实现并发访问与线性规模缩放。 
+在一份声明当中，东芝美国电子元件公司系统开发主管Ralph Schmitt表示：&quot;大数据处理在规模化、延迟与功耗水平等方面，都很难满足客户日益提升的实际需求。Flashmatrix创造出一套真正的分析处理解决 方案 ，其提供低功耗水平、并发访问以降低系统延迟、卡层级规模扩展以及可供全部CPU共享的大规模非易失内存空间，从而切实解决以上难题。&quot; 
+其单一节点为2U设备，具体包括： 
+• 12块微服务器--名为Connection Units(简称CU)-- CPU卡，包含： 
+• 
+• 
+• 2 x 1 GbitE端口。 
+• 48块闪存卡，名为Node Modules(简称NM)： 
+2 x FPGA (Xilinx K7)协处理器。 
+• 8 x 512 GB DDR3L DRAM。 
+数据库
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>CN</country>
+<main_image></main_image>
+</document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://diendan.congdongcviet.com/external.php?type=RSS2</forum>
+<forum_title>Cáť™ng Ä‘áť“ng C Viáť‡t</forum_title>
+<discussion_title>MS SQL Láť—i Kiáşżn trĂşc cĂ i Ä‘áşˇt SQL</discussion_title>
+<language>vietnamese</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://diendan.congdongcviet.com/threads/t374035::kien-truc-cai-dat-sql.cpp</topic_url>
+<topic_text>
+26 Kiến trúc cài đặt SQL Các bác cho em hỏi việc này, em đang cần dựng lên 1 hệ thống với mô hình SQL Always On Failover Cluster, Với 2 máy chủ SQL, hiện tại em đã cài được theo hướng dẫn, nhưng em có được biết là SQL với khả năng của AG cho phép phân tải trên 2 máy chủ SQL, (Có 10 ứng dụng ~ 10 Database, cho phép cho 5 database trên máy chủ sql1 là primary, và 5 là secondary, tương tự trên máy chủ 2. Em cũng mới tìm hiểu, có thể giải thích không thấu, các bác giúp em nhé. Bác nào biết chỉ em với, cấu hình thế nào được như thế?
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://diendan.congdongcviet.com/threads/t374035::kien-truc-cai-dat-sql.cpp</post_url>
+<post_date>20160812</post_date>
+<post_time>0427</post_time>
+<username>nhiephong_205</username>
+<post>
+26 Kiến trúc cài đặt SQL Các bác cho em hỏi việc này, em đang cần dựng lên 1 hệ thống với mô hình SQL Always On Failover Cluster, Với 2 máy chủ SQL, hiện tại em đã cài được theo hướng dẫn, nhưng em có được biết là SQL với khả năng của AG cho phép phân tải trên 2 máy chủ SQL, (Có 10 ứng dụng ~ 10 Database, cho phép cho 5 database trên máy chủ sql1 là primary, và 5 là secondary, tương tự trên máy chủ 2. Em cũng mới tìm hiểu, có thể giải thích không thấu, các bác giúp em nhé. Bác nào biết chỉ em với, cấu hình thế nào được như thế?
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>VN</country>
+<main_image></main_image>
+</document>

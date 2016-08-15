@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum>http://diendan.congdongcviet.com/external.php?type=RSS2</forum>
+<forum_title>Cáť™ng Ä‘áť“ng C Viáť‡t</forum_title>
+<discussion_title>ADO.NET Khai bĂĄo class cĂł dĂšng táťŤ RunTypes ?</discussion_title>
+<language>vietnamese</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://diendan.congdongcviet.com/threads/t374031::khai-bao-class-co-dung-tu-runtypes.cpp</topic_url>
+<topic_text>
+298 Khai báo class có dùng từ RunTypes ? Khi khai báo class có sử dụng từ RunTypes được khai báo như sau, xem code ở dưới: Code: // Trong class namespace KhaibaoClass { class clsVidu { public enum RunTypes // public static (hoặc) { SoKhong = 0, SoMot = 1, SoHai = 2, UnKnown } } } // Trong Form1 namespace KhaibaoClass { public partial class Form1 : Form { public Form1() { InitializeComponent(); } private void cmdRun_Click(object sender, EventArgs e) { clsVidu obj = new clsVidu(); obj.RunTypes.SoMot; // báo lỗi: Error 1 &apos;RunTypes&apos;: cannot reference a type through an expression; } } } Chổ class mình đổi public hoặc public static enum RunTypes vẫn không thấy được đối tượng trong class ? Nếu mình vẫn muốn sử dụng từ khóa RunTypes như ở trên mình khai báo trong private void cmdRun_Click như thế nào ?
+</topic_text>
+<spam_score>0.00</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://diendan.congdongcviet.com/threads/t374031::khai-bao-class-co-dung-tu-runtypes.cpp</post_url>
+<post_date>20160812</post_date>
+<post_time>0337</post_time>
+<username>dongtrien</username>
+<post>
+298 Khai báo class có dùng từ RunTypes ? Khi khai báo class có sử dụng từ RunTypes được khai báo như sau, xem code ở dưới: Code: // Trong class namespace KhaibaoClass { class clsVidu { public enum RunTypes // public static (hoặc) { SoKhong = 0, SoMot = 1, SoHai = 2, UnKnown } } } // Trong Form1 namespace KhaibaoClass { public partial class Form1 : Form { public Form1() { InitializeComponent(); } private void cmdRun_Click(object sender, EventArgs e) { clsVidu obj = new clsVidu(); obj.RunTypes.SoMot; // báo lỗi: Error 1 &apos;RunTypes&apos;: cannot reference a type through an expression; } } } Chổ class mình đổi public hoặc public static enum RunTypes vẫn không thấy được đối tượng trong class ? Nếu mình vẫn muốn sử dụng từ khóa RunTypes như ở trên mình khai báo trong private void cmdRun_Click như thế nào ?
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>VN</country>
+<main_image></main_image>
+</document>

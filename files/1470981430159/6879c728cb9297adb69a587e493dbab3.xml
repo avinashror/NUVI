@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<type>mainstream</type>
+<forum></forum>
+<forum_title></forum_title>
+<discussion_title>Keyless entry systems on most Volkswagens, Audis can be hacked: researchers - The Globe and Mail</discussion_title>
+<language>english</language>
+<gmt_offset></gmt_offset>
+<topic_url>http://www.theglobeandmail.com/globe-drive/culture/technology/keyless-entry-systems-on-most-volkswagens-audis-can-be-hacked-researchers/article31379613/</topic_url>
+<topic_text>
+A A 
+Tens of millions of vehicles sold by Volkswagen AG over the past 20 years, and some current models, are vulnerable to theft because keyless entry systems can be hacked using cheap technical devices, according to European researchers. 
+Computer security experts at the University of Birmingham have published a paper outlining how they were able to clone VW remote keyless entry controls by eavesdropping nearby when drivers press their key fobs to open or lock up their cars. 
+Vehicles vulnerable to this attack include most Audi, VW, Seat and Skoda models sold since 1995 and many of the approximately 100 million VW Group vehicles on the road since then, the researchers said. The flaw was found in car models as recent as the Audi Q3, model year 2016, they said. 
+“It is conceivable that all VW Group (except for some Audi) cars manufactured in the past and partially today rely on a ‘constant-key’ scheme and are thus vulnerable to the attacks,” the paper said. 
+The only exception were cars built on VW’s latest MQB production platform, which is used in its top selling model, the Golf VII, which the researchers found does not have the flaw. 
+“There are still some VW car models being sold that are not on the latest platform and which remain vulnerable to attack,” Flavio Garcia, co-author of the report and a senior lecturer in computer security at University of Birmingham, told Reuters. 
+A VW spokesman said that its current Golf, Tiguan, Touran and Passat models are not at risk from the attack. 
+“This current vehicle generation is not afflicted by the problems described,” VW spokesman Peter Weisheit said in a statement, without commenting on the risks to other models. 
+In their paper, the researchers did not identify the auto parts subcontractor that makes the affected keyless systems for VW and potentially other car makers. VW declined to comment on its supplier relationships. 
+Garcia and co-author David Oswald, also a lecturer at Birmingham University, are scheduled to present their paper at the Usenix security conference in Austin, Texas, on Friday. 
+The disclosures come as Europe’s largest auto maker struggles to overcome its biggest-ever corporate scandal, after it admitted to manipulating diesel emissions tests in about 11 million vehicles globally. 
+OTHER CAR MAKERS VULNERABLE 
+Attackers can use cheap and widely available tools for grabbing radio signals, according to the three researchers from the University of Birmingham in central England and a fourth who is a security consultant with Kasper &amp; Oswald GmbH in Germany. 
+Cars from other manufacturers may share these flaws, including some model years of the Ford Galaxy, the researchers said. 
+“We are aware of this security gap and have incorporated this knowledge in the enhancements of existing and future systems. We no longer use the described system in any of our new cars,” Ford Europe spokesman John Gardiner said. 
+The reports’ authors said they had focused on mass-market models and did not analyze in detail VW’s luxury brands including Porsche, Bentley, Lamborghini and Bugatti. 
+They first disclosed their findings to VW Group in November and met the company and the subcontractor involved in February and said VW had acknowledged the vulnerabilities. 
+The Wolfsburg-based auto maker confirmed it has had a constructive exchange with the researchers and that the authors had agreed to withhold details in their report that savvy criminals could use to break into cars. 
+In 2013, VW obtained a restraining order against a group of researchers that included Garcia to prevent publication of a paper detailing how certain anti-theft car immobilizer were vulnerable to hackers. 
+That research was published in 2015 after the authors agreed with VW to remove a detail that would have allowed thieves to figure out how to carry out an attack. 
+Garcia, Oswald and their co-authors also describe a second attack that could be used against Hitag2 (HT2) remote keyless entry systems used in older models of other auto makers, running on circuits produced by Dutch-American chipmaker NXP. 
+An NXP spokesman said HT2 chips first introduced in 1998 have been gradually replaced by auto makers since 2006 and that the chipmaker has advised them to replace HT2 chips in new cars since security weaknesses were reported in 2009 and 2012. 
+</topic_text>
+<spam_score>0.50</spam_score>
+<post_num>1</post_num>
+<post_id>post-1</post_id>
+<post_url>http://www.theglobeandmail.com/globe-drive/culture/technology/keyless-entry-systems-on-most-volkswagens-audis-can-be-hacked-researchers/article31379613/</post_url>
+<post_date>20160811</post_date>
+<post_time></post_time>
+<username>Eric Auchard</username>
+<post>
+A A 
+Tens of millions of vehicles sold by Volkswagen AG over the past 20 years, and some current models, are vulnerable to theft because keyless entry systems can be hacked using cheap technical devices, according to European researchers. 
+Computer security experts at the University of Birmingham have published a paper outlining how they were able to clone VW remote keyless entry controls by eavesdropping nearby when drivers press their key fobs to open or lock up their cars. 
+Vehicles vulnerable to this attack include most Audi, VW, Seat and Skoda models sold since 1995 and many of the approximately 100 million VW Group vehicles on the road since then, the researchers said. The flaw was found in car models as recent as the Audi Q3, model year 2016, they said. 
+“It is conceivable that all VW Group (except for some Audi) cars manufactured in the past and partially today rely on a ‘constant-key’ scheme and are thus vulnerable to the attacks,” the paper said. 
+The only exception were cars built on VW’s latest MQB production platform, which is used in its top selling model, the Golf VII, which the researchers found does not have the flaw. 
+“There are still some VW car models being sold that are not on the latest platform and which remain vulnerable to attack,” Flavio Garcia, co-author of the report and a senior lecturer in computer security at University of Birmingham, told Reuters. 
+A VW spokesman said that its current Golf, Tiguan, Touran and Passat models are not at risk from the attack. 
+“This current vehicle generation is not afflicted by the problems described,” VW spokesman Peter Weisheit said in a statement, without commenting on the risks to other models. 
+In their paper, the researchers did not identify the auto parts subcontractor that makes the affected keyless systems for VW and potentially other car makers. VW declined to comment on its supplier relationships. 
+Garcia and co-author David Oswald, also a lecturer at Birmingham University, are scheduled to present their paper at the Usenix security conference in Austin, Texas, on Friday. 
+The disclosures come as Europe’s largest auto maker struggles to overcome its biggest-ever corporate scandal, after it admitted to manipulating diesel emissions tests in about 11 million vehicles globally. 
+OTHER CAR MAKERS VULNERABLE 
+Attackers can use cheap and widely available tools for grabbing radio signals, according to the three researchers from the University of Birmingham in central England and a fourth who is a security consultant with Kasper &amp; Oswald GmbH in Germany. 
+Cars from other manufacturers may share these flaws, including some model years of the Ford Galaxy, the researchers said. 
+“We are aware of this security gap and have incorporated this knowledge in the enhancements of existing and future systems. We no longer use the described system in any of our new cars,” Ford Europe spokesman John Gardiner said. 
+The reports’ authors said they had focused on mass-market models and did not analyze in detail VW’s luxury brands including Porsche, Bentley, Lamborghini and Bugatti. 
+They first disclosed their findings to VW Group in November and met the company and the subcontractor involved in February and said VW had acknowledged the vulnerabilities. 
+The Wolfsburg-based auto maker confirmed it has had a constructive exchange with the researchers and that the authors had agreed to withhold details in their report that savvy criminals could use to break into cars. 
+In 2013, VW obtained a restraining order against a group of researchers that included Garcia to prevent publication of a paper detailing how certain anti-theft car immobilizer were vulnerable to hackers. 
+That research was published in 2015 after the authors agreed with VW to remove a detail that would have allowed thieves to figure out how to carry out an attack. 
+Garcia, Oswald and their co-authors also describe a second attack that could be used against Hitag2 (HT2) remote keyless entry systems used in older models of other auto makers, running on circuits produced by Dutch-American chipmaker NXP. 
+An NXP spokesman said HT2 chips first introduced in 1998 have been gradually replaced by auto makers since 2006 and that the chipmaker has advised them to replace HT2 chips in new cars since security weaknesses were reported in 2009 and 2012. 
+</post>
+<signature>
+
+</signature>
+<external_links>
+
+</external_links>
+<country>CA</country>
+<main_image>http://static.theglobeandmail.ca/f60/globe-drive/culture/technology/article31379612.ece/ALTERNATES/w620/OUKBS-UK-AUTOS-CYBER-VOLKSW.JPG</main_image>
+</document>
